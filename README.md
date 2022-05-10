@@ -6,9 +6,7 @@
 
 ... Description
 
-## Tecnology
-
-* Here are the technologies used in this project:
+## Technologies used in this project
 
 * react-native
 * expo
@@ -27,7 +25,7 @@
 
     > $ npm install -g expo-cli
 
-## Cheque a instalação
+## Checking expo instalation
 
 * To checking the sucessfull expo instalation:
 
