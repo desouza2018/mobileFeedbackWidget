@@ -1,6 +1,6 @@
 #
 
-![Logo of the project](https://logo_link)
+[Logo of the project](https://logo_link)
 
 ## Feedback_Widget
 
@@ -61,7 +61,7 @@
 
     > $ minimal
 
-* To create the project (npm package manager):
+### To create the project (npm package manager)
 
     > $ expo init project_name --npm
 
@@ -75,19 +75,18 @@
 
 * To install expo google fonts from link:
 
-! [Using a Google Font](https://docs.expo.dev/guides/using-custom-fonts/?msclkid=b941de44cfe711ecb58a3b727e5b1f8b)
+[Using a Google Font](https://docs.expo.dev/guides/using-custom-fonts/?msclkid=b941de44cfe711ecb58a3b727e5b1f8b)
 
     > $ expo install expo-font @expo-google-fonts/inter
 
 * to verify if app is loading the fonts:
 
-! [AppLoading](https://docs.expo.dev/versions/latest/sdk/app-loading/?msclkid=b35ef870d07b11ec8e83639c4e44289a)
+[AppLoading](https://docs.expo.dev/versions/latest/sdk/app-loading/?msclkid=b35ef870d07b11ec8e83639c4e44289a)
 
     > $ expo install expo-app-loading
 
 * To install Phosphor - a flexible icon family for interfaces, diagrams, presentations:
-
-! [phosphor-react-native](https://www.npmjs.com/package/phosphor-react-native?msclkid=393686d8d07a11ecafbf8f28bef12707)
+ [phosphor-react-native](https://www.npmjs.com/package/phosphor-react-native?msclkid=393686d8d07a11ecafbf8f28bef12707)
 
 * With npm:
 
@@ -99,13 +98,13 @@
 
 * to install react-native-svg:
 
-! [react-native-svg](https://www.npmjs.com/package/react-native-svg?msclkid=bf84b29cd07a11ec8e2564aaf6645e2a)
+[react-native-svg](https://www.npmjs.com/package/react-native-svg?msclkid=bf84b29cd07a11ec8e2564aaf6645e2a)
 
     > $ expo install react-native-svg
 
 * To instal react-native-iphone-x-helper - A library to help you design your react-native app for notched iPhones:
 
-! [react-native-iphone-x-helper](https://www.npmjs.com/package/react-native-iphone-x-helper?msclkid=5c663561d07811ec9d3dda0e7ec12216)
+[react-native-iphone-x-helper](https://www.npmjs.com/package/react-native-iphone-x-helper?msclkid=5c663561d07811ec9d3dda0e7ec12216)
 
     > $ npm i react-native-iphone-x-helper --save
 
@@ -113,7 +112,7 @@
 
 * Links:
 
-! [React Native Bottom Sheet](https://gorhom.github.io/react-native-bottom-sheet/#features)
+[React Native Bottom Sheet](https://gorhom.github.io/react-native-bottom-sheet/#features)
 
 * With yarn:
 
@@ -129,10 +128,10 @@
 
 * to install the dependencies of Reac Native Bottom Sheet:
 
-! [Reanimated](https://docs.expo.dev/versions/latest/sdk/reanimated/?msclkid=7b562beccfff11ec82c0911b7f39ebc2)
+[Reanimated](https://docs.expo.dev/versions/latest/sdk/reanimated/?msclkid=7b562beccfff11ec82c0911b7f39ebc2)
 
     > $ expo install react-native-reanimated
 
-! [GestureHandler](https://docs.expo.dev/versions/v45.0.0/sdk/gesture-handler/)
+[GestureHandler](https://docs.expo.dev/versions/v45.0.0/sdk/gesture-handler/)
 
     > $ expo install react-native-gesture-handler
