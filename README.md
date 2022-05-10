@@ -120,3 +120,11 @@
 [GestureHandler](https://docs.expo.dev/versions/v45.0.0/sdk/gesture-handler/)
 
     > $ expo install react-native-gesture-handler
+
+* with npm:
+
+    > $ npm install --save react-native-gesture-handler
+
+* or yarn:
+
+> $ yarn add react-native-gesture-handler
