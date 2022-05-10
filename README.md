@@ -43,24 +43,31 @@
 
     > $ expo init project_name
 
-* To choose a Template:
+### To choose a Template
 
-    > $ blank               a minimal app as clean as an empty canvas
-    > $ blank (Typescript)  same as blank but with Typescript configuration
-    > $ tabs (Typescript)   several example screens and tabs using react-navigation and Typescript.
-    > $ minimal             bare and minimal, just the essentials to get you started
+* Template with a minimal app as clean as an empty canvas
+
+    > $ blank
+
+* Template with same as blank but with Typescript configuration
+
+    > $ blank (Typescript)
+
+* Template with several example screens and tabs using react-navigation and Typescript.
+
+    > $ tabs (Typescript)
+
+* Template with bare and minimal, just the essentials to get you started
+
+    > $ minimal
 
 * To create the project (npm package manager):
 
     > $ expo init project_name --npm
 
-* To choose a Template:
+* Follow before steps on Choose a Template
 
-    > $ blank               a minimal app as clean as an empty canvas
-    > $ blank (Typescript)  same as blank but with Typescript configuration
-    > $ tabs (Typescript)   several example screens and tabs using react-navigation and Typescript.
-
-* To run the app:
+### To run the app
 
     > $ expo start
 
@@ -68,7 +75,7 @@
 
 * To install expo google fonts from link:
 
-! [URL](https://docs.expo.dev/guides/using-custom-fonts/?msclkid=b941de44cfe711ecb58a3b727e5b1f8b)
+! [Using a Google Font](https://docs.expo.dev/guides/using-custom-fonts/?msclkid=b941de44cfe711ecb58a3b727e5b1f8b)
 
     > $ expo install expo-font @expo-google-fonts/inter
 
@@ -82,11 +89,11 @@
 
 ! [phosphor-react-native](https://www.npmjs.com/package/phosphor-react-native?msclkid=393686d8d07a11ecafbf8f28bef12707)
 
-** With npm:
+* With npm:
 
     > $ npm install --save phosphor-react-native
 
-** Or with yarn:
+* Or with yarn:
 
     > $ yarn add phosphor-react-native
 
@@ -104,19 +111,19 @@
 
 * To install Reac Native Bottom Sheet:
 
-** Links:
+* Links:
 
 ! [React Native Bottom Sheet](https://gorhom.github.io/react-native-bottom-sheet/#features)
 
-** With yarn:
+* With yarn:
 
     > $ yarn add @gorhom/bottom-sheet@^4
 
-** With expo:
+* With expo:
 
     > $ expo install @gorhom/bottom-sheet@^4
 
-** or npm:
+* or npm:
 
     > $ npm install @gorhom/bottom-sheet@^4
 
