@@ -8,7 +8,7 @@
 
 ## Tecnology
 
-Here are the technologies used in this project.
+* Here are the technologies used in this project:
 
 * react-native
 * expo
@@ -25,44 +25,44 @@ Here are the technologies used in this project.
 
 * To install expo:
 
-> $ npm install -g expo-cli
+    > $ npm install -g expo-cli
 
 ## Cheque a instalação
 
 * To checking the sucessfull expo instalation:
 
-> $ expo --version
+    > $ expo --version
 
 * on sucessful case, the expo version will be returned:
 
-> $ 5.4.3
+    > $ 5.4.3
 
 ## Create the project
 
 * To create the project (yarn package manager):
 
-> $ expo init project_name
+    > $ expo init project_name
 
 * To choose a Template:
 
-> $ blank               a minimal app as clean as an empty canvas
-> $ blank (Typescript)  same as blank but with Typescript configuration
-> $ tabs (Typescript)   several example screens and tabs using react-navigation and Typescript.
-> $ minimal             bare and minimal, just the essentials to get you started
+    > $ blank               a minimal app as clean as an empty canvas
+    > $ blank (Typescript)  same as blank but with Typescript configuration
+    > $ tabs (Typescript)   several example screens and tabs using react-navigation and Typescript.
+    > $ minimal             bare and minimal, just the essentials to get you started
 
 * To create the project (npm package manager):
 
-> $ expo init project_name --npm
+    > $ expo init project_name --npm
 
 * To choose a Template:
 
-> $ blank               a minimal app as clean as an empty canvas
-> $ blank (Typescript)  same as blank but with Typescript configuration
-> $ tabs (Typescript)   several example screens and tabs using react-navigation and Typescript.
+    > $ blank               a minimal app as clean as an empty canvas
+    > $ blank (Typescript)  same as blank but with Typescript configuration
+    > $ tabs (Typescript)   several example screens and tabs using react-navigation and Typescript.
 
 * To run the app:
 
-> $ expo start
+    > $ expo start
 
 ## Commands used when building app
 
@@ -70,53 +70,62 @@ Here are the technologies used in this project.
 
 ! [URL](https://docs.expo.dev/guides/using-custom-fonts/?msclkid=b941de44cfe711ecb58a3b727e5b1f8b)
 
-> $ expo install expo-font @expo-google-fonts/inter
+    > $ expo install expo-font @expo-google-fonts/inter
 
 * to verify if app is loading the fonts:
 
-> $ expo install expo-app-loading
+! [AppLoading](https://docs.expo.dev/versions/latest/sdk/app-loading/?msclkid=b35ef870d07b11ec8e83639c4e44289a)
+
+    > $ expo install expo-app-loading
 
 * To install Phosphor - a flexible icon family for interfaces, diagrams, presentations:
-* With npm:
 
-> $ npm install --save phosphor-react-native
+! [phosphor-react-native](https://www.npmjs.com/package/phosphor-react-native?msclkid=393686d8d07a11ecafbf8f28bef12707)
 
-* Or with yarn:
+** With npm:
 
-> $ yarn add phosphor-react-native
+    > $ npm install --save phosphor-react-native
 
-* to install expo install react-native-svg
+** Or with yarn:
 
-> $ expo install react-native-svg
+    > $ yarn add phosphor-react-native
+
+* to install react-native-svg:
+
+! [react-native-svg](https://www.npmjs.com/package/react-native-svg?msclkid=bf84b29cd07a11ec8e2564aaf6645e2a)
+
+    > $ expo install react-native-svg
 
 * To instal react-native-iphone-x-helper - A library to help you design your react-native app for notched iPhones:
 
-> $ npm i react-native-iphone-x-helper --save
+! [react-native-iphone-x-helper](https://www.npmjs.com/package/react-native-iphone-x-helper?msclkid=5c663561d07811ec9d3dda0e7ec12216)
+
+    > $ npm i react-native-iphone-x-helper --save
 
 * To install Reac Native Bottom Sheet:
 
-* Links:
+** Links:
 
-! [URL](https://gorhom.github.io/react-native-bottom-sheet/#features)
+! [React Native Bottom Sheet](https://gorhom.github.io/react-native-bottom-sheet/#features)
 
-* With yarn:
+** With yarn:
 
-> $ yarn add @gorhom/bottom-sheet@^4
+    > $ yarn add @gorhom/bottom-sheet@^4
 
-* or expo me used:
+** With expo:
 
-> expo install @gorhom/bottom-sheet@^4
+    > $ expo install @gorhom/bottom-sheet@^4
 
-* or npm:
+** or npm:
 
-> npm install @gorhom/bottom-sheet@^4
+    > $ npm install @gorhom/bottom-sheet@^4
 
 * to install the dependencies of Reac Native Bottom Sheet:
 
-! [URL](https://docs.expo.dev/versions/latest/sdk/reanimated/?msclkid=7b562beccfff11ec82c0911b7f39ebc2)
+! [Reanimated](https://docs.expo.dev/versions/latest/sdk/reanimated/?msclkid=7b562beccfff11ec82c0911b7f39ebc2)
 
-> $ expo install react-native-reanimated
+    > $ expo install react-native-reanimated
 
-! [URL](https://docs.expo.dev/versions/v45.0.0/sdk/gesture-handler/)
+! [GestureHandler](https://docs.expo.dev/versions/v45.0.0/sdk/gesture-handler/)
 
-> $ expo install react-native-gesture-handler
+    > $ expo install react-native-gesture-handler
