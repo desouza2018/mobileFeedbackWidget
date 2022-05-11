@@ -75,9 +75,21 @@
 
     > $ expo install expo-font @expo-google-fonts/inter
 
-* [AppLoading](https://docs.expo.dev/versions/latest/sdk/app-loading/?msclkid=b35ef870d07b11ec8e83639c4e44289a) to verify if app is loading the fonts:
+* [AppLoading is [Deprecated!]](https://docs.expo.dev/versions/latest/sdk/app-loading/?msclkid=b35ef870d07b11ec8e83639c4e44289a) to verify if app is loading the fonts:
 
     > $ expo install expo-app-loading
+
+### So dont use AppLoading but Use expo-splash-screen directly instead
+
+SplashScreenpreventAutoHideAsync() and SplashScreen.hideAsync()
+
+#### SplashScreen instalation
+
+Read more about [SplashScreen](https://docs.expo.dev/versions/latest/sdk/splash-screen/)
+
+    > $ expo install expo-splash-screen
+
+#### Phosphor React Native
 
 * [phosphor-react-native](https://www.npmjs.com/package/phosphor-react-native?msclkid=393686d8d07a11ecafbf8f28bef12707): a flexible icon family for interfaces, diagrams, presentations.
 
@@ -89,13 +101,19 @@
 
     > $ yarn add phosphor-react-native
 
+#### React Native SVG
+
 * [react-native-svg](https://www.npmjs.com/package/react-native-svg?msclkid=bf84b29cd07a11ec8e2564aaf6645e2a)
 
     > $ expo install react-native-svg
 
+#### React Native Iphone X Helper
+
 * [react-native-iphone-x-helper](https://www.npmjs.com/package/react-native-iphone-x-helper?msclkid=5c663561d07811ec9d3dda0e7ec12216). A library to help you design your react-native app for notched iPhones:
 
     > $ npm i react-native-iphone-x-helper --save
+
+#### React Native Bottom Sheet
 
 * [React Native Bottom Sheet](https://gorhom.github.io/react-native-bottom-sheet/#features). To install:
 
